@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Berdandy - metalcraft</title>
+    <subtitle>Berdandy&#x27;s Hobbies</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://berdandy.com/categories/metalcraft/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://berdandy.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-29T00:00:00+00:00</updated>
+    <id>https://berdandy.com/categories/metalcraft/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Metalwork for a Wedding</title>
+        <published>2024-12-29T00:00:00+00:00</published>
+        <updated>2024-12-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/blog/goldsmithing/"/>
+        <id>https://berdandy.com/blog/goldsmithing/</id>
+        
+        <content type="html" xml:base="https://berdandy.com/blog/goldsmithing/">&lt;p&gt;When I decided to get married, I wanted something unique and personal for an
+engagement ring. With the audacity of curiosity, I wandered into a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bellchamber.net&#x2F;&quot;&gt;local goldsmith&lt;&#x2F;a&gt;&#x27;s
+shop with the intention of asking for some advice on how to explore making the engagement ring
+myself.&lt;&#x2F;p&gt;
+&lt;p&gt;Serendipity was with me that day, because it turned out that Jason had previously taught workshops,
+but hadn&#x27;t in several years. He was open to doing some custom lessons about lost-wax casting.&lt;&#x2F;p&gt;
+&lt;p&gt;Fast-forward several months, a few dozen lunchtime lessons later, and I had created an
+engagement ring in my own custom claddagh design&lt;&#x2F;p&gt;
+ &lt;a href=&quot;&#x2F;pages&#x2F;misc&#x2F;metalwork_engagement_ring.jpg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;misc&#x2F;metalwork_engagement_ring.jpg&quot; alt=&quot;metalwork_engagement_ring&quot; width=&quot;240&quot; height=&quot;240&quot; loading=&quot;lazy&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;p&gt;... and two wedding bands with line work that evokes a similar feeling:&lt;&#x2F;p&gt;
+ &lt;a href=&quot;&#x2F;pages&#x2F;misc&#x2F;metalwork_wedding_bands.jpg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;misc&#x2F;metalwork_wedding_bands.jpg&quot; alt=&quot;metalwork_wedding_bands&quot; width=&quot;240&quot; height=&quot;240&quot; loading=&quot;lazy&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+</content>
+        
+    </entry>
+</feed>

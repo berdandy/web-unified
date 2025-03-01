@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Berdandy</title>
+    <subtitle>Berdandy&#x27;s Hobbies</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://berdandy.com/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://berdandy.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-03-01T00:00:00+00:00</updated>
+    <id>https://berdandy.com/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Old Anime and New Music</title>
+        <published>2025-03-01T00:00:00+00:00</published>
+        <updated>2025-03-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/blog/spring-music/"/>
+        <id>https://berdandy.com/blog/spring-music/</id>
+        
+        <content type="html" xml:base="https://berdandy.com/blog/spring-music/">&lt;p&gt;I was rewatching Cowboy Bebop recently after unearthing old DVD collections, and evidently got inspired. As a
+result, I made &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;music.berdandy.com&#x2F;jet-single&#x2F;&quot;&gt;a very jazz-fusion-y track&lt;&#x2F;a&gt; in honour of Jet, one of the main characters.&lt;&#x2F;p&gt;
+&lt;div&gt;&lt;iframe loading=&quot;lazy&quot; src=&quot;https:&#x2F;&#x2F;music.berdandy.com&#x2F;jet-single&#x2F;embed&#x2F;all&#x2F;&quot; title=&quot;Audio player widget for &amp;quot;Jet&amp;quot;&quot;&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;div&gt;
+&lt;p&gt;Today Berdandy was featured on a indie&#x2F;fediverse-focused show, the NHAM Mixtapes. It&#x27;s one of my older tracks,
+&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;music.berdandy.com&#x2F;souls-beat-slow-single&#x2F;&quot;&gt;Souls Beat Slow&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;div&gt;&lt;iframe loading=&quot;lazy&quot; src=&quot;https:&#x2F;&#x2F;music.berdandy.com&#x2F;souls-beat-slow-single&#x2F;embed&#x2F;1&#x2F;&quot; style=&quot;min-width: 480px;&quot; title=&quot;Audio player widget for &amp;quot;Souls Beat Slow&amp;quot;&quot;&gt;&lt;&#x2F;iframe&gt;&lt;&#x2F;div&gt;
+&lt;p&gt;You can listen to the whole show at &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.audiointerface.org&#x2F;shows&#x2F;nham-mixtapes&#x2F;20250301&#x2F;&quot;&gt;audiointerface.org&lt;&#x2F;a&gt;, and I definitely recommend it. There&#x27;s some good stuff in there.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Not That Kind of Dungeon</title>
+        <published>2025-02-10T00:00:00+00:00</published>
+        <updated>2025-02-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/blog/wristcuff-map/"/>
+        <id>https://berdandy.com/blog/wristcuff-map/</id>
+        
+        <summary type="html">&lt;p&gt;I wanted to make a leather wrist cuff, inspired by some old Dungeons &amp;amp; Dragons style dungeon-crawl maps.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Kobo eBook Case: Final Assembly</title>
+        <published>2025-02-08T00:00:00+00:00</published>
+        <updated>2025-02-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/blog/ebook-case-4/"/>
+        <id>https://berdandy.com/blog/ebook-case-4/</id>
+        
+        <summary type="html">&lt;p&gt;After some reflection, the best course of action was to indeed remove the pen loop and put a new
+one in the spine area.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Kobo eBook Case: Weekend Assembly Blitz</title>
+        <published>2025-02-02T00:00:00+00:00</published>
+        <updated>2025-02-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/blog/ebook-case-3/"/>
+        <id>https://berdandy.com/blog/ebook-case-3/</id>
+        
+        <summary type="html">&lt;p&gt;I was motivated, so spent most of my Saturday doing the case manufacturing and assembly.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Kobo eBook Case: The Plan</title>
+        <published>2025-01-29T00:00:00+00:00</published>
+        <updated>2025-01-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/blog/ebook-case-2/"/>
+        <id>https://berdandy.com/blog/ebook-case-2/</id>
+        
+        <summary type="html">&lt;p&gt;I decided to change the assembly order slightly. And accordingly, the plan.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Kobo eBook Case: Ideas&#x2F;Preliminary</title>
+        <published>2025-01-28T00:00:00+00:00</published>
+        <updated>2025-01-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/blog/ebook-wetforming/"/>
+        <id>https://berdandy.com/blog/ebook-wetforming/</id>
+        
+        <content type="html" xml:base="https://berdandy.com/blog/ebook-wetforming/">&lt;p&gt;My wife and I both got Kobo eBooks for ourselves, but she was unhappy with the stock case options. When I got into
+leatherworking, I offered to make her a custom one once I had figured out how to not make terrible things.&lt;&#x2F;p&gt;
+&lt;p&gt;There are a few options I explored:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slipcover. Decided against, because it&#x27;s not a permanent case.&lt;&#x2F;li&gt;
+&lt;li&gt;Corner-grips. Decided aginst, because one corner would block the charging port.&lt;&#x2F;li&gt;
+&lt;li&gt;Velcro-mount for a floating effect. Decided against, aesthetic reasons.&lt;&#x2F;li&gt;
+&lt;li&gt;Wet-formed grips. This seems the most workable option.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;After some digging, I finally found a random photo of someone who had done a similar thing, so I was confident
+I wasn&#x27;t completely off the mark. I wet-formed top-and-bottom &quot;grips&quot; for a test, and rough-cut material for a cover.&lt;&#x2F;p&gt;
+&lt;center&gt; &lt;a href=&quot;&#x2F;pages&#x2F;wip&#x2F;case_grips_cover.jpg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;wip&#x2F;case_grips_cover.jpg&quot; alt=&quot;case_grips_cover&quot; width=&quot;480&quot; height=&quot;240&quot; loading=&quot;lazy&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;&#x2F;center&gt;
+&lt;p&gt;I can picture it now.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;The remaining plan is:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cut a &quot;reversed&quot; cover pocket to accommodate a passport. A strong secondary use for this case is a passport holder.&lt;&#x2F;li&gt;
+&lt;li&gt;Cut a pen holder to sit in snap loop (or spine?)&lt;&#x2F;li&gt;
+&lt;li&gt;Assemble with temporary tape&lt;&#x2F;li&gt;
+&lt;li&gt;Cut cover to shape, including snap loop&lt;&#x2F;li&gt;
+&lt;li&gt;Finish raw leather grips (cover and pocket material is already-finished leather)&lt;&#x2F;li&gt;
+&lt;li&gt;Finish all interior edges&lt;&#x2F;li&gt;
+&lt;li&gt;Assemble with grips and cover pocket and final trim&lt;&#x2F;li&gt;
+&lt;li&gt;Finish exterior edges&lt;&#x2F;li&gt;
+&lt;li&gt;Attach snap closure&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Leatherworking Shop Space</title>
+        <published>2025-01-25T00:00:00+00:00</published>
+        <updated>2025-01-25T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/blog/shopspace/"/>
+        <id>https://berdandy.com/blog/shopspace/</id>
+        
+        <content type="html" xml:base="https://berdandy.com/blog/shopspace/">&lt;p&gt;I&#x27;m increasingly feeling limited by my need to unpack and repack my leatherworking tools and materials when I
+somehow excavate some time and energy from my life -- and the competition for the dining room table is fierce.&lt;&#x2F;p&gt;
+&lt;p&gt;As a result, I&#x27;m staking out some space in the basement for a multipurpose workspace.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;the-plan&quot;&gt;The Plan&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Reorganize existing woodworking tools&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Move some tools to open up cluttered workbench for heavy stuff (hammering, stitching chisels, etc)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Get&#x2F;build a second workbench for wet stuff (dying, painting, etc)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Bins &amp;amp; storage for leatherworking scraps and consumables&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Make large material storage (rolled in cardboard concrete forms)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bonus-ideas&quot;&gt;Bonus Ideas&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot; checked=&quot;&quot;&#x2F;&gt;
+Move guest room TV&#x2F;speakers to shop&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Small photography area using unused basement furniture&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Getting there...&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Metalwork for a Wedding</title>
+        <published>2024-12-29T00:00:00+00:00</published>
+        <updated>2024-12-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/blog/goldsmithing/"/>
+        <id>https://berdandy.com/blog/goldsmithing/</id>
+        
+        <content type="html" xml:base="https://berdandy.com/blog/goldsmithing/">&lt;p&gt;When I decided to get married, I wanted something unique and personal for an
+engagement ring. With the audacity of curiosity, I wandered into a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bellchamber.net&#x2F;&quot;&gt;local goldsmith&lt;&#x2F;a&gt;&#x27;s
+shop with the intention of asking for some advice on how to explore making the engagement ring
+myself.&lt;&#x2F;p&gt;
+&lt;p&gt;Serendipity was with me that day, because it turned out that Jason had previously taught workshops,
+but hadn&#x27;t in several years. He was open to doing some custom lessons about lost-wax casting.&lt;&#x2F;p&gt;
+&lt;p&gt;Fast-forward several months, a few dozen lunchtime lessons later, and I had created an
+engagement ring in my own custom claddagh design&lt;&#x2F;p&gt;
+ &lt;a href=&quot;&#x2F;pages&#x2F;misc&#x2F;metalwork_engagement_ring.jpg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;misc&#x2F;metalwork_engagement_ring.jpg&quot; alt=&quot;metalwork_engagement_ring&quot; width=&quot;240&quot; height=&quot;240&quot; loading=&quot;lazy&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;p&gt;... and two wedding bands with line work that evokes a similar feeling:&lt;&#x2F;p&gt;
+ &lt;a href=&quot;&#x2F;pages&#x2F;misc&#x2F;metalwork_wedding_bands.jpg&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;misc&#x2F;metalwork_wedding_bands.jpg&quot; alt=&quot;metalwork_wedding_bands&quot; width=&quot;240&quot; height=&quot;240&quot; loading=&quot;lazy&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Leathercraft Gallery</title>
+        <published>2024-12-26T00:00:00+00:00</published>
+        <updated>2024-12-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/pages/craft/"/>
+        <id>https://berdandy.com/pages/craft/</id>
+        
+        <content type="html" xml:base="https://berdandy.com/pages/craft/">&lt;h1 id=&quot;physicalia&quot;&gt;Physicalia&lt;&#x2F;h1&gt;
+&lt;p&gt;With my careers and hobbies involving ephemeral creativity -- video game development, photography,
+music production, web development, etc -- sometimes, I feel a pressure to create something tangible
+and physical.&lt;&#x2F;p&gt;
+&lt;p&gt;Here lies a simple gallery of some of my works.&lt;&#x2F;p&gt;
+&lt;div&gt;
+
+
+
+
+
+    &lt;a href=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;craft&#x2F;dragonfly_barrette.jpg&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;berdandy.com&amp;#x2F;processed_images&amp;#x2F;dragonfly_barrette.09c82fb45c58669b.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;craft&#x2F;dragonfly_barrette_worn.jpg&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;berdandy.com&amp;#x2F;processed_images&amp;#x2F;dragonfly_barrette_worn.61829ab366a95ab0.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;craft&#x2F;leatherwork_muskoka_tooled_bookmark.jpg&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;berdandy.com&amp;#x2F;processed_images&amp;#x2F;leatherwork_muskoka_tooled_bookmark.102b3706bd7699c0.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;craft&#x2F;leatherwork_vegvesir_tooled_cuff.jpg&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;berdandy.com&amp;#x2F;processed_images&amp;#x2F;leatherwork_vegvesir_tooled_cuff.e9527f7817103fdb.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Misc Gallery</title>
+        <published>2024-12-26T00:00:00+00:00</published>
+        <updated>2024-12-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/pages/misc/"/>
+        <id>https://berdandy.com/pages/misc/</id>
+        
+        <content type="html" xml:base="https://berdandy.com/pages/misc/">&lt;p&gt;Here lies a simple gallery of some of my works&lt;&#x2F;p&gt;
+&lt;div&gt;
+
+
+
+
+
+    &lt;a href=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;misc&#x2F;metalwork_engagement_ring.jpg&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;berdandy.com&amp;#x2F;processed_images&amp;#x2F;metalwork_engagement_ring.abc809552cbb8ff7.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;misc&#x2F;metalwork_wedding_bands.jpg&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;berdandy.com&amp;#x2F;processed_images&amp;#x2F;metalwork_wedding_bands.df08be355c21cc85.jpg&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;berdandy.com&#x2F;pages&#x2F;misc&#x2F;printwork_micdrop.png&quot;&gt;
+      &lt;img src=&quot;https:&amp;#x2F;&amp;#x2F;berdandy.com&amp;#x2F;processed_images&amp;#x2F;printwork_micdrop.cf3ee4847d4b414e.png&quot; &#x2F;&gt;
+    &lt;&#x2F;a&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hobbies of hobbies</title>
+        <published>2024-12-23T00:00:00+00:00</published>
+        <updated>2024-12-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://berdandy.com/blog/hobbiesofhobbies/"/>
+        <id>https://berdandy.com/blog/hobbiesofhobbies/</id>
+        
+        <content type="html" xml:base="https://berdandy.com/blog/hobbiesofhobbies/">&lt;h1 id=&quot;it-s-hobbies-all-the-way-down&quot;&gt;It&#x27;s hobbies, all the way down...&lt;&#x2F;h1&gt;
+&lt;p&gt;I make games professionally, and most of my hobbies are creative endeavours. And even some of my hobbies
+have progressed into semi-professional status.&lt;&#x2F;p&gt;
+&lt;p&gt;To some degree, I guess my true hobby is collecting hobbies. And then with enough time, they turn into
+skills and careers.&lt;&#x2F;p&gt;
+&lt;p&gt;The goal for this site is to have a home on the internet that can unify all this stuff in a single location, instead of going to This Place for music works, That Place for tabletop design works, The Other Place for video game works, The Fourth Place for physical crafting works, and so on and so on.&lt;&#x2F;p&gt;
+&lt;p&gt;It&#x27;s likely to be a little chaotic, but with a throughline of creativity.&lt;&#x2F;p&gt;
+&lt;p&gt;Enjoy.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
